@@ -1,2 +1,3 @@
 # classicmodels
-Ecploratory Dataset Classicmodels with SQL
+## Ecploratory Dataset Classicmodels with SQL
+Open file classicmodels.sql
